@@ -76,7 +76,7 @@ h3 {
 .texto p {
     margin: 25px 0;
     font-family: var(--fonte-secundaria);
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 .redes {
@@ -127,7 +127,7 @@ h3 {
 
 footer {
     margin-top: 25px;
-    height: 100px;
+    height: 10%;
     background-color: var(--cor-terciaria);
     display: flex;
     align-items: center;
